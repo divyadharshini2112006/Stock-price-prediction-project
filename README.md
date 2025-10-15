@@ -230,6 +230,10 @@ Y-axis: Closing Price (USD)
 Color: Royal Blue
 Description: Shows how Apple’s stock price has changed over time.
 
+
+![g1](https://github.com/user-attachments/assets/d52f60f7-f2cf-431a-911d-e13cd610e519)
+
+
  
 2. 📈 Graph 2 – Moving Average Comparison
 
@@ -243,6 +247,10 @@ Close Price → Light Blue
 Description: Displays trend smoothness using two moving averages.
 
  
+![g2](https://github.com/user-attachments/assets/d8f2e706-dc6a-4533-a6c9-81bc844d20d4)
+
+
+
 
 3. 🔴 Graph 3 – Predicted vs Actual Prices
 
@@ -254,7 +262,8 @@ Actual Prices → Blue
 Predicted Prices → Red
 Description: Compares model output with actual values for validation.
 
- 
+ ![g3](https://github.com/user-attachments/assets/8dc79ea6-084e-4e22-b76e-796b227c6bb6)
+
 
 
 4. 🔮 Graph 4 – Future 30-Day Forecast
@@ -266,6 +275,13 @@ Colors:
 Last 100 Days (Historical) → Blue
 Next 30 Days (Predicted) → Dashed Red Line
 Description: Shows model forecast for upcoming days.
+
+
+![g4](https://github.com/user-attachments/assets/83c9884a-9a84-4297-bb4e-fc74362ea921)
+
+
+
+
 
  
 
